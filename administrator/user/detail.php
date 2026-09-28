@@ -105,7 +105,7 @@ $user = $result->fetch_assoc();
          </div>
          <div class="card-footer">
             <a href="edit.php?id=<?= $user['id_user'] ?>"class="btn btn-warning">Edit</a>
-            <a href="edit.php" class="btn btn-secondary">Kembali</s>
+            <a href="edit.php" class="btn btn-secondary">Kembali</a>
          </div>
       </div>
 </div>
